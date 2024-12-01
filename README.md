@@ -22,7 +22,7 @@
   - `requests`
   - `tkinter`
 
-#### **How to Use:**
+#### **How to Use: (EXE file in dist folder)**
 1. Enter your search parameters (topic, email domain, site) in the respective fields.
 2. Click the **Scrape Emails** button.
 3. View the collected emails in the `emails.txt` file saved in the same directory.
