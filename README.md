@@ -30,6 +30,3 @@
 #### **Disclaimer:**
 This tool is for educational purposes only. Always respect website terms of service and avoid violating privacy regulations.
 
----
-
-Feel free to customize this description further for your GitHub repository!
